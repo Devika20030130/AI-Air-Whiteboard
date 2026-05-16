@@ -171,9 +171,6 @@ Output:
 - Multi-color drawing
 - Shape recognition
 - AI handwriting enhancement
-- Equation graph plotting
-- Save notes as PDF
-- Voice assistant integration
 
 ---
 
